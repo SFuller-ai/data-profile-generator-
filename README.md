@@ -1,3 +1,5 @@
+Synthetic Data Generator for User Profiles:
+
 This Python project generates randomized user profiles for mock data analysis, testing, or learning purposes. 
 
 
