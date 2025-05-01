@@ -4,7 +4,7 @@ This Python project generates randomized user profiles for mock data analysis, t
 
 - Randomly selects:
    - Name
-   - Age
+   - Age (18-65)
    - Location
    - Interests
 - Uses Python 'random.choice()` and 'range()` for data sampling
